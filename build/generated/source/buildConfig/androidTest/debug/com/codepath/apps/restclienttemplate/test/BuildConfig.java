@@ -11,6 +11,6 @@ public final class BuildConfig {
   public static final int VERSION_CODE = -1;
   public static final String VERSION_NAME = "";
   // Fields from default config.
-  public static final String CONSUMER_KEY = "oHkIhv11i1j4zhIMnaQDWn9AO";
-  public static final String CONSUMER_SECRET = "qnV8XMJBTtozj9tUqvjs1R0C4pQVBfgdYkK1vwHQipZf9VofkZ";
+  public static final String CONSUMER_KEY = BuildConfig.CONSUMER_KEY;
+  public static final String CONSUMER_SECRET = BuildConfig.CONSUMER_SECRET;
 }
